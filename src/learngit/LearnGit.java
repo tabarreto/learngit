@@ -7,7 +7,7 @@ package learngit;
 
 /**
  *
- * @author Sandra
+ * @author Antonio
  */
 public class LearnGit {
 
