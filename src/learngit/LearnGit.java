@@ -17,6 +17,7 @@ public class LearnGit {
     public static void main(String[] args) {
         System.out.println("Tony");
         System.out.println("Barreto");
+        System.out.println("Sánchez");
     }
     
 }
