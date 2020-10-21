@@ -18,6 +18,9 @@ public class LearnGit {
         System.out.println("Tony");
         System.out.println("Barreto");
         System.out.println("Sánchez");
+        
+        System.out.println("Nueva");
+        System.out.println("Rama");
     }
     
 }
