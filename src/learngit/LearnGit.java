@@ -22,7 +22,7 @@ public class LearnGit {
         System.out.println("Nueva");
         System.out.println("Rama");
         
-        System.out.println("Modificado por mí desde el rpositorio local.");
+        System.out.println("Modificado por pepe.");
     }
     
 }
